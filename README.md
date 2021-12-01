@@ -4,4 +4,4 @@ This repository provides Python code and Jupyter Notebooks accompanying the Mach
 
 Buy the book on [Amazon](https://www.amazon.com/Machine-Learning-Financial-Management-Python/dp/1492085251)
 
-![text](Macintosh HD/⁨Users/⁨abdullah/⁨Desktop/⁨papers_books/Financial_Risk_ML_book/github_cover⁩.png)
+![text](⁨Users/⁨abdullah/⁨Desktop/⁨papers_books/Financial_Risk_ML_book/github_cover⁩.png)
