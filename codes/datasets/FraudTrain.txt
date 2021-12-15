@@ -1,0 +1,4 @@
+As FraudTrain dataset is larger than 25MB, I prefer uploading this into google drive,
+you can easily go to the following link and download the dataset:
+
+https://drive.google.com/file/d/1Ko15MscTWzgVIKH64yT0zVeUt0OqmUff/view
